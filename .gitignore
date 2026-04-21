@@ -1,0 +1,7 @@
+data.csv
+sensor_data.db
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
